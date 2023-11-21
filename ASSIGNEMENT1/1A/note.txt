@@ -1,0 +1,5 @@
+- Show results of your experiments using images and graphs together with your analysis
+- Add (important part of) code as an appendix
+- Clear report is very important
+- minimum required: at least 20 points are from Assignment 1A and 10 points from 2A
+- https://www.overleaf.com/project/65533ffe92d8b773d7204b96
